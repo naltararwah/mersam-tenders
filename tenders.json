@@ -1,15 +1,30 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-19T11:47:50.995Z",
-    "scrapedDate": "2026-05-19",
+    "lastUpdated": "2026-05-20T20:50:31.628Z",
+    "scrapedDate": "2026-05-20",
     "source": "منصة اعتماد السعودية",
     "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
     "subActivity": "أنشطة المعارض والمؤتمرات",
     "filterUrl": "https://tenders.etimad.sa/Tender/AllTendersForVisitor?TenderActivityId=17&TenderSubActivityId=1701&IsSearch=true",
-    "totalLive": 19,
-    "totalHistorical": 366
+    "totalLive": 18,
+    "totalHistorical": 368
   },
   "live": [
+    {
+      "title": "تجهيز وتشغيل الاحتفال الرسمي لمنطقة القصيم بمناسبة اليوم الوطني 96",
+      "type": "منافسة عامة",
+      "entity": "أمانة منطقة القصيم - ادارة المشتريات والمناقصات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260539006249",
+      "publishDate": "2026-05-20",
+      "deadline": "2026-06-05  09:59",
+      "openDate": "2026-06-05  10:00",
+      "lastInquiry": "2026-05-30",
+      "docCost": "2500",
+      "daysLeft": 15,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Jr*@@**oXNVHh1FZRbNnYKMyng=="
+    },
     {
       "title": "تشغيل معارض اللغة العربية الدائمة بمجمع الملك سلمان العالمي للغة العربية",
       "type": "منافسة عامة",
@@ -21,7 +36,7 @@
       "openDate": "2026-06-19  10:00",
       "lastInquiry": "2026-05-28",
       "docCost": "2500",
-      "daysLeft": 30,
+      "daysLeft": 29,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=G9ucct7J2J5gFsk4bpQp0A=="
     },
@@ -36,7 +51,7 @@
       "openDate": "2026-06-21  13:00",
       "lastInquiry": "2026-06-02",
       "docCost": "1000",
-      "daysLeft": 32,
+      "daysLeft": 31,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=QO0C9 L2y4 XA1pR*@@**mCyEg=="
     },
@@ -51,7 +66,7 @@
       "openDate": "2026-06-14  17:00",
       "lastInquiry": "2026-06-10",
       "docCost": "مجانا",
-      "daysLeft": 26,
+      "daysLeft": 24,
       "status": "active",
       "link": "https://tenders.etimad.sa#"
     },
@@ -65,8 +80,8 @@
       "deadline": "2026-05-23  09:59",
       "openDate": "",
       "lastInquiry": "2026-05-21",
-      "docCost": "مجانا",
-      "daysLeft": 3,
+      "docCost": "200",
+      "daysLeft": 2,
       "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1hWyaxWyvABzfNQxIWVuEw=="
     },
@@ -81,8 +96,8 @@
       "openDate": "",
       "lastInquiry": "2026-05-26",
       "docCost": "200",
-      "daysLeft": 8,
-      "status": "active",
+      "daysLeft": 7,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Cbax806Twx1lAxip9xmEkA=="
     },
     {
@@ -96,7 +111,7 @@
       "openDate": "2026-06-02  10:00",
       "lastInquiry": "2026-05-31",
       "docCost": "1000",
-      "daysLeft": 13,
+      "daysLeft": 12,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=jmHzmOICHmgIHD2w6T5 8g=="
     },
@@ -111,7 +126,7 @@
       "openDate": "2026-06-16  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "800",
-      "daysLeft": 27,
+      "daysLeft": 26,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=unyVOsN1woHk zKKBLiP0g=="
     },
@@ -126,7 +141,7 @@
       "openDate": "2026-06-12  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "700",
-      "daysLeft": 23,
+      "daysLeft": 22,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1YPCETI1Qd0aX2hO0PyjpQ=="
     },
@@ -141,7 +156,7 @@
       "openDate": "2026-06-14  11:00",
       "lastInquiry": "2026-05-28",
       "docCost": "1000",
-      "daysLeft": 25,
+      "daysLeft": 24,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=SH6qmPFRb5*@@**fBycJFE8Nzw=="
     },
@@ -156,7 +171,7 @@
       "openDate": "2026-06-13  10:00",
       "lastInquiry": "2026-05-23",
       "docCost": "700",
-      "daysLeft": 24,
+      "daysLeft": 23,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Xc5g5zm792Q*@@**iipVoQxsGw=="
     },
@@ -171,7 +186,7 @@
       "openDate": "2026-05-26  10:00",
       "lastInquiry": "2026-05-20",
       "docCost": "1500",
-      "daysLeft": 6,
+      "daysLeft": 5,
       "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=7BQJhXWI*@@**qDgsw*@@**xrgtWTA=="
     },
@@ -186,7 +201,7 @@
       "openDate": "2026-06-02  10:00",
       "lastInquiry": "2026-05-18",
       "docCost": "600",
-      "daysLeft": 13,
+      "daysLeft": 12,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=hmezG0 gruoLI89 bJlevA=="
     },
@@ -201,7 +216,7 @@
       "openDate": "2026-05-22  10:00",
       "lastInquiry": "2026-05-20",
       "docCost": "500",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=H gGP1nbYKo1AaH8xaodGg=="
     },
@@ -216,24 +231,9 @@
       "openDate": "2026-06-06  10:00",
       "lastInquiry": "2026-05-25",
       "docCost": "1000",
-      "daysLeft": 17,
+      "daysLeft": 16,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=BsaD3MCvnIJE3T82zP6QWw=="
-    },
-    {
-      "title": "تنفيذ ورشة عمل لبرنامج المعرفة التاريخية",
-      "type": "منافسة عامة",
-      "entity": "دارة الملك عبدالعزيز - المشتريات",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260439014718",
-      "publishDate": "2026-05-04",
-      "deadline": "2026-05-20  09:59",
-      "openDate": "2026-05-20  10:00",
-      "lastInquiry": "2026-05-14",
-      "docCost": "500",
-      "daysLeft": 0,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=9gQrOnMYgkszS1xZ72WORQ=="
     },
     {
       "title": "مؤتمر الذكاء الاصطناعي",
@@ -246,7 +246,7 @@
       "openDate": "2026-06-04  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "1000",
-      "daysLeft": 15,
+      "daysLeft": 14,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Yf3dqJDAJqIREkbj7UfsLw=="
     },
@@ -261,7 +261,7 @@
       "openDate": "2026-06-10  14:00",
       "lastInquiry": "2026-06-03",
       "docCost": "1000",
-      "daysLeft": 21,
+      "daysLeft": 20,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Vzx8sx2VVXt9FK3mONl3gQ=="
     },
@@ -276,24 +276,9 @@
       "openDate": "2026-05-22  10:00",
       "lastInquiry": "2026-05-01",
       "docCost": "1000",
-      "daysLeft": 2,
+      "daysLeft": 1,
       "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=okvsAuqX57WvmpLshvSoGA=="
-    },
-    {
-      "title": "الترويج والنشر لحملة مواسم تمورنا",
-      "type": "منافسة عامة",
-      "entity": "المركز الوطني للنخيل و التمور - المركز الوطني للنخيل و التمور",
-      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
-      "refNum": "260439006175",
-      "publishDate": "2026-04-19",
-      "deadline": "2026-05-20  09:59",
-      "openDate": "2026-05-20  10:00",
-      "lastInquiry": "2026-04-24",
-      "docCost": "700",
-      "daysLeft": 0,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ogJG9FzfPRV *@@**sq2C7*@@***@@**Nw=="
     }
   ],
   "historical": [
@@ -391,6 +376,18 @@
       "deadline": "2026-05-09  09:59",
       "docCost": "200",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=S4oAceUeABbVSeYcwyg60Q==",
+      "status": "historical"
+    },
+    {
+      "title": "تنفيذ ورشة عمل لبرنامج المعرفة التاريخية",
+      "type": "منافسة عامة",
+      "entity": "دارة الملك عبدالعزيز - المشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260439014718",
+      "publishDate": "2026-05-04",
+      "deadline": "2026-05-20  09:59",
+      "docCost": "500",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=9gQrOnMYgkszS1xZ72WORQ==",
       "status": "historical"
     },
     {
@@ -499,6 +496,18 @@
       "deadline": "2026-04-26  09:59",
       "docCost": "200",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=AIdkh12n8T8e7UbTp*@@**EMzw==",
+      "status": "historical"
+    },
+    {
+      "title": "الترويج والنشر لحملة مواسم تمورنا",
+      "type": "منافسة عامة",
+      "entity": "المركز الوطني للنخيل و التمور - المركز الوطني للنخيل و التمور",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260439006175",
+      "publishDate": "2026-04-19",
+      "deadline": "2026-05-20  09:59",
+      "docCost": "700",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ogJG9FzfPRV *@@**sq2C7*@@***@@**Nw==",
       "status": "historical"
     },
     {
