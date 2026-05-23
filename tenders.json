@@ -1,13 +1,13 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-22T15:08:28.840Z",
-    "scrapedDate": "2026-05-22",
+    "lastUpdated": "2026-05-23T16:24:40.776Z",
+    "scrapedDate": "2026-05-23",
     "source": "منصة اعتماد السعودية",
     "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
     "subActivity": "أنشطة المعارض والمؤتمرات",
     "filterUrl": "https://tenders.etimad.sa/Tender/AllTendersForVisitor?TenderActivityId=17&TenderSubActivityId=1701&IsSearch=true",
-    "totalLive": 17,
-    "totalHistorical": 369
+    "totalLive": 16,
+    "totalHistorical": 370
   },
   "live": [
     {
@@ -21,7 +21,7 @@
       "openDate": "2026-06-08  10:00",
       "lastInquiry": "2026-06-05",
       "docCost": "500",
-      "daysLeft": 16,
+      "daysLeft": 15,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=k lFkt6Q4h9dhvaqUdrPYw=="
     },
@@ -36,7 +36,7 @@
       "openDate": "2026-06-05  10:00",
       "lastInquiry": "2026-05-30",
       "docCost": "2500",
-      "daysLeft": 13,
+      "daysLeft": 12,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Jr*@@**oXNVHh1FZRbNnYKMyng=="
     },
@@ -51,7 +51,7 @@
       "openDate": "2026-06-19  10:00",
       "lastInquiry": "2026-05-28",
       "docCost": "2500",
-      "daysLeft": 27,
+      "daysLeft": 26,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=G9ucct7J2J5gFsk4bpQp0A=="
     },
@@ -66,7 +66,7 @@
       "openDate": "2026-06-21  13:00",
       "lastInquiry": "2026-06-02",
       "docCost": "1000",
-      "daysLeft": 29,
+      "daysLeft": 28,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=QO0C9 L2y4 XA1pR*@@**mCyEg=="
     },
@@ -81,24 +81,9 @@
       "openDate": "2026-06-14  17:00",
       "lastInquiry": "2026-06-10",
       "docCost": "مجانا",
-      "daysLeft": 22,
+      "daysLeft": 21,
       "status": "active",
       "link": "https://tenders.etimad.sa#"
-    },
-    {
-      "title": "توريد مفارش بنظام الايجار لمصليات الأعياد بمحافظات منطقة المدينة المنورة",
-      "type": "شراء مباشر",
-      "entity": "وزارة الشـؤون الاسلامية والدعوة والارشاد - فرع الوزارة بمنطقة المدينة المنورة - المشتريات",
-      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
-      "refNum": "260539006598",
-      "publishDate": "2026-05-18",
-      "deadline": "2026-05-23  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-05-21",
-      "docCost": "200",
-      "daysLeft": 0,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1hWyaxWyvABzfNQxIWVuEw=="
     },
     {
       "title": "الإحتفاء بالأيام الوطنية لعام 2026-2027م لفرع وزارة الصحة بالمنطقة الشرقية",
@@ -111,7 +96,7 @@
       "openDate": "",
       "lastInquiry": "2026-05-26",
       "docCost": "200",
-      "daysLeft": 5,
+      "daysLeft": 4,
       "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Cbax806Twx1lAxip9xmEkA=="
     },
@@ -126,14 +111,14 @@
       "openDate": "2026-06-02  10:00",
       "lastInquiry": "2026-05-31",
       "docCost": "1000",
-      "daysLeft": 10,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=jmHzmOICHmgIHD2w6T5 8g=="
     },
     {
       "title": "تجهيزات منتدى الاونكتاد العالمي لسلاسل التوريد",
       "type": "منافسة عامة",
-      "entity": "المؤسسة العامة للموانىء - إدارة المشتريات و العقود",
+      "entity": "الهيئة العامة للموانىء - إدارة المشتريات و العقود",
       "activity": "أنشطة المعارض والمؤتمرات",
       "refNum": "260539005872",
       "publishDate": "2026-05-14",
@@ -141,7 +126,7 @@
       "openDate": "2026-06-16  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "800",
-      "daysLeft": 24,
+      "daysLeft": 23,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=unyVOsN1woHk zKKBLiP0g=="
     },
@@ -156,7 +141,7 @@
       "openDate": "2026-06-12  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "700",
-      "daysLeft": 20,
+      "daysLeft": 19,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1YPCETI1Qd0aX2hO0PyjpQ=="
     },
@@ -171,7 +156,7 @@
       "openDate": "2026-06-14  11:00",
       "lastInquiry": "2026-05-28",
       "docCost": "1000",
-      "daysLeft": 22,
+      "daysLeft": 21,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=SH6qmPFRb5*@@**fBycJFE8Nzw=="
     },
@@ -186,7 +171,7 @@
       "openDate": "2026-06-13  10:00",
       "lastInquiry": "2026-05-23",
       "docCost": "700",
-      "daysLeft": 21,
+      "daysLeft": 20,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Xc5g5zm792Q*@@**iipVoQxsGw=="
     },
@@ -201,7 +186,7 @@
       "openDate": "2026-05-26  10:00",
       "lastInquiry": "2026-05-20",
       "docCost": "1500",
-      "daysLeft": 3,
+      "daysLeft": 2,
       "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=7BQJhXWI*@@**qDgsw*@@**xrgtWTA=="
     },
@@ -216,7 +201,7 @@
       "openDate": "2026-06-02  10:00",
       "lastInquiry": "2026-05-18",
       "docCost": "600",
-      "daysLeft": 10,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=hmezG0 gruoLI89 bJlevA=="
     },
@@ -231,7 +216,7 @@
       "openDate": "2026-06-06  10:00",
       "lastInquiry": "2026-05-25",
       "docCost": "1000",
-      "daysLeft": 14,
+      "daysLeft": 13,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=BsaD3MCvnIJE3T82zP6QWw=="
     },
@@ -246,7 +231,7 @@
       "openDate": "2026-06-04  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "1000",
-      "daysLeft": 12,
+      "daysLeft": 11,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Yf3dqJDAJqIREkbj7UfsLw=="
     },
@@ -261,12 +246,24 @@
       "openDate": "2026-06-10  14:00",
       "lastInquiry": "2026-06-03",
       "docCost": "1000",
-      "daysLeft": 18,
+      "daysLeft": 17,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Vzx8sx2VVXt9FK3mONl3gQ=="
     }
   ],
   "historical": [
+    {
+      "title": "توريد مفارش بنظام الايجار لمصليات الأعياد بمحافظات منطقة المدينة المنورة",
+      "type": "شراء مباشر",
+      "entity": "وزارة الشـؤون الاسلامية والدعوة والارشاد - فرع الوزارة بمنطقة المدينة المنورة - المشتريات",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260539006598",
+      "publishDate": "2026-05-18",
+      "deadline": "2026-05-23  09:59",
+      "docCost": "200",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1hWyaxWyvABzfNQxIWVuEw==",
+      "status": "historical"
+    },
     {
       "title": "تنظيم فعالية صغيرة Small Event حسب المرفق",
       "type": "شراء مباشر",
@@ -342,7 +339,7 @@
     {
       "title": "تأمين توزيعات لحجاج بيت الله الحرام",
       "type": "شراء مباشر",
-      "entity": "حرس الحدود - قيادة حرس الحدود بمنطقة مكة المكرمة",
+      "entity": "المديرية العامة لحرس الحدود - قيادة حرس الحدود بمنطقة مكة المكرمة",
       "activity": "أنشطة المعارض والمؤتمرات",
       "refNum": "260539001711",
       "publishDate": "2026-05-05",
