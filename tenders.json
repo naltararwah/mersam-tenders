@@ -1,13 +1,13 @@
 {
   "meta": {
-    "lastUpdated": "2026-05-24T20:22:04.780Z",
-    "scrapedDate": "2026-05-24",
+    "lastUpdated": "2026-06-02T17:12:50.348Z",
+    "scrapedDate": "2026-06-02",
     "source": "منصة اعتماد السعودية",
     "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
     "subActivity": "أنشطة المعارض والمؤتمرات",
     "filterUrl": "https://tenders.etimad.sa/Tender/AllTendersForVisitor?TenderActivityId=17&TenderSubActivityId=1701&IsSearch=true",
-    "totalLive": 18,
-    "totalHistorical": 370
+    "totalLive": 14,
+    "totalHistorical": 374
   },
   "live": [
     {
@@ -21,7 +21,7 @@
       "openDate": "2026-06-24  10:00",
       "lastInquiry": "2026-06-13",
       "docCost": "1000",
-      "daysLeft": 30,
+      "daysLeft": 21,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=rSPCfSM5LDlhpdmF3B1guA=="
     },
@@ -36,8 +36,8 @@
       "openDate": "2026-06-09  10:00",
       "lastInquiry": "2026-06-03",
       "docCost": "1000",
-      "daysLeft": 15,
-      "status": "active",
+      "daysLeft": 6,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=crw2bdst*@@** 07FiHa89mTSg=="
     },
     {
@@ -51,8 +51,8 @@
       "openDate": "2026-06-08  10:00",
       "lastInquiry": "2026-06-05",
       "docCost": "500",
-      "daysLeft": 14,
-      "status": "active",
+      "daysLeft": 5,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=k lFkt6Q4h9dhvaqUdrPYw=="
     },
     {
@@ -66,8 +66,8 @@
       "openDate": "2026-06-05  10:00",
       "lastInquiry": "2026-05-30",
       "docCost": "2500",
-      "daysLeft": 11,
-      "status": "active",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Jr*@@**oXNVHh1FZRbNnYKMyng=="
     },
     {
@@ -81,7 +81,7 @@
       "openDate": "2026-06-19  10:00",
       "lastInquiry": "2026-05-28",
       "docCost": "2500",
-      "daysLeft": 25,
+      "daysLeft": 16,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=G9ucct7J2J5gFsk4bpQp0A=="
     },
@@ -96,7 +96,7 @@
       "openDate": "2026-06-21  13:00",
       "lastInquiry": "2026-06-02",
       "docCost": "1000",
-      "daysLeft": 27,
+      "daysLeft": 18,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=QO0C9 L2y4 XA1pR*@@**mCyEg=="
     },
@@ -111,39 +111,9 @@
       "openDate": "2026-06-14  17:00",
       "lastInquiry": "2026-06-10",
       "docCost": "مجانا",
-      "daysLeft": 20,
+      "daysLeft": 11,
       "status": "active",
       "link": "https://tenders.etimad.sa#"
-    },
-    {
-      "title": "الإحتفاء بالأيام الوطنية لعام 2026-2027م لفرع وزارة الصحة بالمنطقة الشرقية",
-      "type": "شراء مباشر",
-      "entity": "فرع وزارة الصحة بالمنطقة الشرقية - إدارة العقود والمشتريات (شراء مباشر) بصحة الشرقية",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260539005796",
-      "publishDate": "2026-05-17",
-      "deadline": "2026-05-28  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-05-26",
-      "docCost": "200",
-      "daysLeft": 3,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Cbax806Twx1lAxip9xmEkA=="
-    },
-    {
-      "title": "اقامة مهرجان العنب بالقصيم",
-      "type": "منافسة عامة",
-      "entity": "بلدية القوارة - بلدية القوارة",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260439014082",
-      "publishDate": "2026-05-17",
-      "deadline": "2026-06-02  09:59",
-      "openDate": "2026-06-02  10:00",
-      "lastInquiry": "2026-05-31",
-      "docCost": "1000",
-      "daysLeft": 8,
-      "status": "active",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=jmHzmOICHmgIHD2w6T5 8g=="
     },
     {
       "title": "تجهيزات منتدى الاونكتاد العالمي لسلاسل التوريد",
@@ -156,7 +126,7 @@
       "openDate": "2026-06-16  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "800",
-      "daysLeft": 22,
+      "daysLeft": 13,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=unyVOsN1woHk zKKBLiP0g=="
     },
@@ -171,7 +141,7 @@
       "openDate": "2026-06-12  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "700",
-      "daysLeft": 18,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1YPCETI1Qd0aX2hO0PyjpQ=="
     },
@@ -186,7 +156,7 @@
       "openDate": "2026-06-14  11:00",
       "lastInquiry": "2026-05-28",
       "docCost": "1000",
-      "daysLeft": 20,
+      "daysLeft": 11,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=SH6qmPFRb5*@@**fBycJFE8Nzw=="
     },
@@ -201,39 +171,9 @@
       "openDate": "2026-06-13  10:00",
       "lastInquiry": "2026-05-23",
       "docCost": "700",
-      "daysLeft": 19,
+      "daysLeft": 10,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Xc5g5zm792Q*@@**iipVoQxsGw=="
-    },
-    {
-      "title": "تقديم خدمات للمشاركة في المعارض والندوات والمؤتمرات في الداخل",
-      "type": "منافسة عامة",
-      "entity": "الهيئة العامة للأمن الغذائي - ادارة المشتريات",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260539001534",
-      "publishDate": "2026-05-10",
-      "deadline": "2026-05-26  09:59",
-      "openDate": "2026-05-26  10:00",
-      "lastInquiry": "2026-05-20",
-      "docCost": "1500",
-      "daysLeft": 1,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=7BQJhXWI*@@**qDgsw*@@**xrgtWTA=="
-    },
-    {
-      "title": "إقامة حفل استقبال وفود ومتحدثي النسخة السادسة من المنتدى الدولي للأمن السيبراني",
-      "type": "منافسة عامة",
-      "entity": "الهيئة الوطنية للأمن السيبراني - الادارة العامة للمشتريات والعقود",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260539000831",
-      "publishDate": "2026-05-07",
-      "deadline": "2026-06-02  10:00",
-      "openDate": "2026-06-02  10:00",
-      "lastInquiry": "2026-05-18",
-      "docCost": "600",
-      "daysLeft": 8,
-      "status": "active",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=hmezG0 gruoLI89 bJlevA=="
     },
     {
       "title": "اتفاقية اطارية لتقديم خدمات تنفيذ المعارض والفعاليات للهيئة",
@@ -245,9 +185,9 @@
       "deadline": "2026-06-06  09:59",
       "openDate": "2026-06-06  10:00",
       "lastInquiry": "2026-05-25",
-      "docCost": "1000",
-      "daysLeft": 12,
-      "status": "active",
+      "docCost": "700",
+      "daysLeft": 3,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=BsaD3MCvnIJE3T82zP6QWw=="
     },
     {
@@ -261,8 +201,8 @@
       "openDate": "2026-06-04  10:00",
       "lastInquiry": "2026-05-29",
       "docCost": "1000",
-      "daysLeft": 10,
-      "status": "active",
+      "daysLeft": 1,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Yf3dqJDAJqIREkbj7UfsLw=="
     },
     {
@@ -276,8 +216,8 @@
       "openDate": "2026-06-10  14:00",
       "lastInquiry": "2026-06-03",
       "docCost": "1000",
-      "daysLeft": 16,
-      "status": "active",
+      "daysLeft": 7,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Vzx8sx2VVXt9FK3mONl3gQ=="
     }
   ],
@@ -295,6 +235,30 @@
       "status": "historical"
     },
     {
+      "title": "الإحتفاء بالأيام الوطنية لعام 2026-2027م لفرع وزارة الصحة بالمنطقة الشرقية",
+      "type": "شراء مباشر",
+      "entity": "فرع وزارة الصحة بالمنطقة الشرقية - إدارة العقود والمشتريات (شراء مباشر) بصحة الشرقية",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260539005796",
+      "publishDate": "2026-05-17",
+      "deadline": "2026-05-28  09:59",
+      "docCost": "200",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Cbax806Twx1lAxip9xmEkA==",
+      "status": "historical"
+    },
+    {
+      "title": "اقامة مهرجان العنب بالقصيم",
+      "type": "منافسة عامة",
+      "entity": "بلدية القوارة - بلدية القوارة",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260439014082",
+      "publishDate": "2026-05-17",
+      "deadline": "2026-06-02  09:59",
+      "docCost": "1000",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=jmHzmOICHmgIHD2w6T5 8g==",
+      "status": "historical"
+    },
+    {
       "title": "تنظيم فعالية صغيرة Small Event حسب المرفق",
       "type": "شراء مباشر",
       "entity": "مستشفى قاعدة الملك عبدالعزيز الجوية بالظهران - إدارة العقود والمشتريات - الشراء المباشر مخزني - غير مخزني - امين الطاهر",
@@ -304,6 +268,30 @@
       "deadline": "2026-05-19  09:59",
       "docCost": "200",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1uyIdB5QNhnrkAMDuYgHyg==",
+      "status": "historical"
+    },
+    {
+      "title": "تقديم خدمات للمشاركة في المعارض والندوات والمؤتمرات في الداخل",
+      "type": "منافسة عامة",
+      "entity": "الهيئة العامة للأمن الغذائي - ادارة المشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260539001534",
+      "publishDate": "2026-05-10",
+      "deadline": "2026-05-26  09:59",
+      "docCost": "1500",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=7BQJhXWI*@@**qDgsw*@@**xrgtWTA==",
+      "status": "historical"
+    },
+    {
+      "title": "إقامة حفل استقبال وفود ومتحدثي النسخة السادسة من المنتدى الدولي للأمن السيبراني",
+      "type": "منافسة عامة",
+      "entity": "الهيئة الوطنية للأمن السيبراني - الادارة العامة للمشتريات والعقود",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260539000831",
+      "publishDate": "2026-05-07",
+      "deadline": "2026-06-02  10:00",
+      "docCost": "600",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=hmezG0 gruoLI89 bJlevA==",
       "status": "historical"
     },
     {
