@@ -1,15 +1,90 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-17T23:11:30.730Z",
-    "scrapedDate": "2026-06-17",
+    "lastUpdated": "2026-06-21T10:18:43.512Z",
+    "scrapedDate": "2026-06-21",
     "source": "منصة اعتماد السعودية",
     "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
     "subActivity": "أنشطة المعارض والمؤتمرات",
     "filterUrl": "https://tenders.etimad.sa/Tender/AllTendersForVisitor?TenderActivityId=17&TenderSubActivityId=1701&IsSearch=true",
-    "totalLive": 21,
-    "totalHistorical": 381
+    "totalLive": 22,
+    "totalHistorical": 385
   },
   "live": [
+    {
+      "title": "الدعم اللوجستي لمنسوبي وضيوف هيئة تطوير منطقة عسير (سكن - خدمات سفر)",
+      "type": "منافسة عامة",
+      "entity": "هيئة تطوير منطقة عسير - ادارة العقود والمشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260639002147",
+      "publishDate": "2026-06-21",
+      "deadline": "2026-07-22  09:59",
+      "openDate": "2026-07-22  10:00",
+      "lastInquiry": "2026-07-01",
+      "docCost": "1000",
+      "daysLeft": 30,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=VDuWhBbzr gVyJ09xsPZZA=="
+    },
+    {
+      "title": "إقامة مسابقة الملك عبدالعزيز الدولية لحفظ القرآن الكريم وتلاوته وتفسيره في دورتها (46) لعام 1448هـ ف ...",
+      "type": "منافسة عامة",
+      "entity": "وزارة الشـؤون الاسلامية والدعوة والارشاد - المنافسات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260639000867",
+      "publishDate": "2026-06-18",
+      "deadline": "2026-07-04  09:59",
+      "openDate": "2026-07-04  10:00",
+      "lastInquiry": "2026-06-28",
+      "docCost": "700",
+      "daysLeft": 12,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId= dZ8juUYwfteCUIU37xIwQ=="
+    },
+    {
+      "title": "عضوية اللجنة التنفيذية بالمجلس العالمي للسفر والسياحة",
+      "type": "منافسة عامة",
+      "entity": "صندوق التنمية السياحي - المقر الرئيسي",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260639005617",
+      "publishDate": "2026-06-18",
+      "deadline": "2026-07-05  10:00",
+      "openDate": "2026-07-05  10:00",
+      "lastInquiry": "2026-06-28",
+      "docCost": "600",
+      "daysLeft": 13,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=lX71yENNXeFgih7goRH8Lg=="
+    },
+    {
+      "title": "سوق الدار 96",
+      "type": "منافسة عامة",
+      "entity": "بنك التنمية الاجتماعية - ادارة المشتريات والعقود بالإدارة العامة",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260639006039",
+      "publishDate": "2026-06-18",
+      "deadline": "2026-07-19  09:59",
+      "openDate": "2026-07-19  10:00",
+      "lastInquiry": "2026-07-03",
+      "docCost": "1700",
+      "daysLeft": 27,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=aJfYWygt PX9gEua9fhnZQ=="
+    },
+    {
+      "title": "حفل التخرج لدفعة (56) لطلاب وطالبات الجامعة",
+      "type": "منافسة عامة",
+      "entity": "جامعة الملك عبدالعزيز - الإدارة العامة للعقود والمشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260639005136",
+      "publishDate": "2026-06-18",
+      "deadline": "2026-07-06  10:00",
+      "openDate": "2026-07-06  10:00",
+      "lastInquiry": "2026-06-28",
+      "docCost": "700",
+      "daysLeft": 14,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=sAkNobXgW6zkWdWQQjyi5g=="
+    },
     {
       "title": "تقديم خدمات تصميم وتنفيذ جناح المعهد في معرض (CPHI) الشرق الأوسط ومعرض ملتقى الصحة العالمي مع تقديم ...",
       "type": "منافسة عامة",
@@ -17,11 +92,11 @@
       "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
       "refNum": "260639003273",
       "publishDate": "2026-06-17",
-      "deadline": "2026-07-03  09:59",
-      "openDate": "2026-07-03  10:00",
-      "lastInquiry": "2026-06-27",
+      "deadline": "2026-07-05  10:30",
+      "openDate": "2026-07-05  11:30",
+      "lastInquiry": "2026-06-29",
       "docCost": "1000",
-      "daysLeft": 15,
+      "daysLeft": 13,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=rwoTpBkFQbLKlxtw2TWcxQ=="
     },
@@ -36,7 +111,7 @@
       "openDate": "2026-07-18  10:00",
       "lastInquiry": "2026-07-02",
       "docCost": "1000",
-      "daysLeft": 30,
+      "daysLeft": 26,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=yn3YfZixXwm8yYPRk8go8g=="
     },
@@ -51,7 +126,7 @@
       "openDate": "2026-07-03  10:00",
       "lastInquiry": "2026-06-27",
       "docCost": "1000",
-      "daysLeft": 15,
+      "daysLeft": 11,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=S*@@**8CPO5RoTHisGt9xjbzrA=="
     },
@@ -66,7 +141,7 @@
       "openDate": "2026-07-02  10:00",
       "lastInquiry": "2026-06-26",
       "docCost": "1000",
-      "daysLeft": 14,
+      "daysLeft": 10,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8QghRexoOrT3Z2PFcdEzsw=="
     },
@@ -81,7 +156,7 @@
       "openDate": "2026-07-02  10:00",
       "lastInquiry": "2026-06-22",
       "docCost": "1000",
-      "daysLeft": 14,
+      "daysLeft": 10,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Z9lluFqJQURaCj8W87UqKw=="
     },
@@ -96,7 +171,7 @@
       "openDate": "2026-07-16  10:00",
       "lastInquiry": "2026-06-25",
       "docCost": "3500",
-      "daysLeft": 28,
+      "daysLeft": 24,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=WpJcoSu0bBrPFsRGbEtWLQ=="
     },
@@ -111,7 +186,7 @@
       "openDate": "2026-07-09  10:00",
       "lastInquiry": "2026-06-20",
       "docCost": "3500",
-      "daysLeft": 21,
+      "daysLeft": 17,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=vViumEYbuVDhuaaavUOQ5w=="
     },
@@ -126,24 +201,9 @@
       "openDate": "2026-07-09  10:00",
       "lastInquiry": "2026-06-18",
       "docCost": "800",
-      "daysLeft": 21,
+      "daysLeft": 17,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=VxYDx5IRMTv2bMBQgZBYIQ=="
-    },
-    {
-      "title": "اجتماع علم السلوك",
-      "type": "المنافسة على مرحلتين (المرحلة الاولى)",
-      "entity": "مركز دعم اتخاذ القرار - مركز دعم اتخاذ القرار",
-      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
-      "refNum": "260639001060",
-      "publishDate": "2026-06-08",
-      "deadline": "2026-06-19  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-06-14",
-      "docCost": "500",
-      "daysLeft": 1,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=BaF7stn 4Ow9Yg3JHQa92A=="
     },
     {
       "title": "اقامة جناح امانة عسير في معرض ومنتدى مشروعات السعودية لمستقبل المدن 2026",
@@ -156,8 +216,8 @@
       "openDate": "2026-06-24  10:00",
       "lastInquiry": "2026-06-18",
       "docCost": "2000",
-      "daysLeft": 6,
-      "status": "expiring",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=VPrSFqodZIIEAfCqMrv89A=="
     },
     {
@@ -171,8 +231,8 @@
       "openDate": "2026-06-24  10:00",
       "lastInquiry": "2026-06-18",
       "docCost": "500",
-      "daysLeft": 6,
-      "status": "expiring",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=xD5D5QigSGHUwwqksvXpWg=="
     },
     {
@@ -186,24 +246,9 @@
       "openDate": "2026-06-23  10:00",
       "lastInquiry": "2026-06-12",
       "docCost": "1000",
-      "daysLeft": 5,
-      "status": "expiring",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=qhVR6 I4XohKJS8QhPC*@@**yw=="
-    },
-    {
-      "title": "تقديم خدمات دعم الوجهات السياحية",
-      "type": "منافسة عامة",
-      "entity": "20250901AL-AHSA DEVELOPMENT AUTHORITY (A - قسم المنافسات - AHDA",
-      "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
-      "refNum": "2000002159",
-      "publishDate": "2026-06-04",
-      "deadline": "2026-06-21  09:00",
-      "openDate": "2026-06-21  09:00",
-      "lastInquiry": "2026-06-17",
-      "docCost": "مجانا",
-      "daysLeft": 3,
+      "daysLeft": 1,
       "status": "urgent",
-      "link": "https://tenders.etimad.sa#"
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=qhVR6 I4XohKJS8QhPC*@@**yw=="
     },
     {
       "title": "إيجار وحدات إنارة وتوريد وتركيب لوحات إعلانية لاحتفالات الجامعة باليوم الوطني 96",
@@ -216,8 +261,8 @@
       "openDate": "2026-06-23  10:00",
       "lastInquiry": "2026-06-13",
       "docCost": "1000",
-      "daysLeft": 5,
-      "status": "expiring",
+      "daysLeft": 1,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MrG2O*@@**yLkZAupI0xrwNbzA=="
     },
     {
@@ -231,39 +276,9 @@
       "openDate": "2026-06-24  10:00",
       "lastInquiry": "2026-06-13",
       "docCost": "1000",
-      "daysLeft": 6,
-      "status": "expiring",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=rSPCfSM5LDlhpdmF3B1guA=="
-    },
-    {
-      "title": "تشغيل معارض اللغة العربية الدائمة بمجمع الملك سلمان العالمي للغة العربية",
-      "type": "منافسة عامة",
-      "entity": "مجمع الملك سلمان العالمي للغة العربية - مجمع الملك سلمان العالمي للغة العربية",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260539006880",
-      "publishDate": "2026-05-19",
-      "deadline": "2026-06-19  09:59",
-      "openDate": "2026-06-19  10:00",
-      "lastInquiry": "2026-05-28",
-      "docCost": "2500",
-      "daysLeft": 1,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=G9ucct7J2J5gFsk4bpQp0A=="
-    },
-    {
-      "title": "إعداد وتنفيذ جميع الخدمات والحملات الاتصالية والتسويقية لوزارة السياحة 2026-2027",
-      "type": "منافسة إتفاقية إطارية",
-      "entity": "وزارة السياحة - الإدارة العامة للمشتريات والعقود",
-      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
-      "refNum": "260539006425",
-      "publishDate": "2026-05-19",
-      "deadline": "2026-06-21  12:00",
-      "openDate": "2026-06-21  13:00",
-      "lastInquiry": "2026-06-02",
-      "docCost": "1000",
-      "daysLeft": 3,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=QO0C9 L2y4 XA1pR*@@**mCyEg=="
     },
     {
       "title": "تنظيم اللقاءات وورش العمل",
@@ -276,8 +291,8 @@
       "openDate": "2026-06-22  10:00",
       "lastInquiry": "2026-06-17",
       "docCost": "مجانا",
-      "daysLeft": 4,
-      "status": "expiring",
+      "daysLeft": 0,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa#"
     },
     {
@@ -291,8 +306,8 @@
       "openDate": "2026-06-23  10:00",
       "lastInquiry": "2026-06-15",
       "docCost": "800",
-      "daysLeft": 5,
-      "status": "expiring",
+      "daysLeft": 1,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=unyVOsN1woHk zKKBLiP0g=="
     },
     {
@@ -306,7 +321,7 @@
       "openDate": "2026-07-01  10:00",
       "lastInquiry": "2026-06-22",
       "docCost": "700",
-      "daysLeft": 13,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1YPCETI1Qd0aX2hO0PyjpQ=="
     },
@@ -321,12 +336,36 @@
       "openDate": "2026-06-28  11:00",
       "lastInquiry": "2026-06-17",
       "docCost": "1000",
-      "daysLeft": 10,
-      "status": "active",
+      "daysLeft": 6,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=SH6qmPFRb5*@@**fBycJFE8Nzw=="
     }
   ],
   "historical": [
+    {
+      "title": "اجتماع علم السلوك",
+      "type": "المنافسة على مرحلتين (المرحلة الاولى)",
+      "entity": "مركز دعم اتخاذ القرار - مركز دعم اتخاذ القرار",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260639001060",
+      "publishDate": "2026-06-08",
+      "deadline": "2026-06-19  09:59",
+      "docCost": "500",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=BaF7stn 4Ow9Yg3JHQa92A==",
+      "status": "historical"
+    },
+    {
+      "title": "تقديم خدمات دعم الوجهات السياحية",
+      "type": "منافسة عامة",
+      "entity": "20250901AL-AHSA DEVELOPMENT AUTHORITY (A - قسم المنافسات - AHDA",
+      "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
+      "refNum": "2000002159",
+      "publishDate": "2026-06-04",
+      "deadline": "2026-06-21  09:00",
+      "docCost": "مجانا",
+      "link": "https://tenders.etimad.sa#",
+      "status": "historical"
+    },
     {
       "title": "تصميم وتنفيذ فعاليات التواصل الداخلي ومعارض الهيئة السعودية للمياه",
       "type": "منافسة عامة",
@@ -361,6 +400,30 @@
       "deadline": "2026-06-08  10:00",
       "docCost": "2500",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Jr*@@**oXNVHh1FZRbNnYKMyng==",
+      "status": "historical"
+    },
+    {
+      "title": "تشغيل معارض اللغة العربية الدائمة بمجمع الملك سلمان العالمي للغة العربية",
+      "type": "منافسة عامة",
+      "entity": "مجمع الملك سلمان العالمي للغة العربية - مجمع الملك سلمان العالمي للغة العربية",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260539006880",
+      "publishDate": "2026-05-19",
+      "deadline": "2026-06-19  09:59",
+      "docCost": "2500",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=G9ucct7J2J5gFsk4bpQp0A==",
+      "status": "historical"
+    },
+    {
+      "title": "إعداد وتنفيذ جميع الخدمات والحملات الاتصالية والتسويقية لوزارة السياحة 2026-2027",
+      "type": "منافسة إتفاقية إطارية",
+      "entity": "وزارة السياحة - الإدارة العامة للمشتريات والعقود",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260539006425",
+      "publishDate": "2026-05-19",
+      "deadline": "2026-06-21  12:00",
+      "docCost": "1000",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=QO0C9 L2y4 XA1pR*@@**mCyEg==",
       "status": "historical"
     },
     {
