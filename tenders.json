@@ -1,15 +1,30 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-30T19:44:24.890Z",
-    "scrapedDate": "2026-06-30",
+    "lastUpdated": "2026-07-03T12:13:20.771Z",
+    "scrapedDate": "2026-07-03",
     "source": "منصة اعتماد السعودية",
     "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
     "subActivity": "أنشطة المعارض والمؤتمرات",
     "filterUrl": "https://tenders.etimad.sa/Tender/AllTendersForVisitor?TenderActivityId=17&TenderSubActivityId=1701&IsSearch=true",
-    "totalLive": 23,
-    "totalHistorical": 392
+    "totalLive": 19,
+    "totalHistorical": 396
   },
   "live": [
+    {
+      "title": "تنفيذ أعمال ترشح الهيئة لعضوية مجلس إدارة الاتحاد الدولي لجمعيات الصليب الأحمر والهلال الأحمر",
+      "type": "منافسة عامة",
+      "entity": "هيئة الهلال الأحمر السعودي - ادارة المشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739000059",
+      "publishDate": "2026-07-02",
+      "deadline": "2026-07-20  09:59",
+      "openDate": "2026-07-20  10:00",
+      "lastInquiry": "2026-07-07",
+      "docCost": "1000",
+      "daysLeft": 16,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=NhzFXg*@@**d65ey2wyDD5Pvew=="
+    },
     {
       "title": "تنظيم الفعاليات والمشاركة بالمؤتمرات والمعارض",
       "type": "منافسة عامة",
@@ -21,7 +36,7 @@
       "openDate": "2026-07-15  10:00",
       "lastInquiry": "2026-07-09",
       "docCost": "1500",
-      "daysLeft": 14,
+      "daysLeft": 11,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=h03who15zCf1GE8zVc5GvQ=="
     },
@@ -36,7 +51,7 @@
       "openDate": "2026-07-14  10:00",
       "lastInquiry": "2026-07-08",
       "docCost": "1000",
-      "daysLeft": 13,
+      "daysLeft": 10,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ocHv2NG7lwRdiWzlyDonvg=="
     },
@@ -51,7 +66,7 @@
       "openDate": "2026-07-26  10:00",
       "lastInquiry": "2026-07-05",
       "docCost": "1000",
-      "daysLeft": 25,
+      "daysLeft": 22,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=q4z1*@@**S60DggErgHrtwOf8g=="
     },
@@ -66,7 +81,7 @@
       "openDate": "2026-07-27  10:00",
       "lastInquiry": "2026-07-06",
       "docCost": "1500",
-      "daysLeft": 25,
+      "daysLeft": 22,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=3c2Dlas GfR7xnAL7ozaXg=="
     },
@@ -81,7 +96,7 @@
       "openDate": "2026-07-13  12:00",
       "lastInquiry": "2026-07-06",
       "docCost": "مجانا",
-      "daysLeft": 12,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa#"
     },
@@ -96,24 +111,9 @@
       "openDate": "2026-07-12  13:00",
       "lastInquiry": "2026-07-05",
       "docCost": "500",
-      "daysLeft": 11,
-      "status": "active",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=U mylYuVLcIPcUgsHvT5vw=="
-    },
-    {
-      "title": "معرض الصيد والصقور 2026",
-      "type": "منافسة عامة",
-      "entity": "20251231KING SALMAN BIN ABDULAZIZ ROYAL - قسم المنافسات",
-      "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
-      "refNum": "2000002287",
-      "publishDate": "2026-06-23",
-      "deadline": "2026-07-09  00:00",
-      "openDate": "2026-07-09  00:00",
-      "lastInquiry": "2026-06-28",
-      "docCost": "مجانا",
       "daysLeft": 8,
       "status": "active",
-      "link": "https://tenders.etimad.sa#"
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=U mylYuVLcIPcUgsHvT5vw=="
     },
     {
       "title": "عملية تجهيزات مواقع فعاليات اليوم الوطني لعام 2026",
@@ -126,7 +126,7 @@
       "openDate": "2026-07-12  10:00",
       "lastInquiry": "2026-07-08",
       "docCost": "700",
-      "daysLeft": 11,
+      "daysLeft": 8,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=NclVN16tz zz3MqQw4s 9g=="
     },
@@ -141,7 +141,7 @@
       "openDate": "2026-07-22  10:00",
       "lastInquiry": "2026-07-01",
       "docCost": "1000",
-      "daysLeft": 21,
+      "daysLeft": 18,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=VDuWhBbzr gVyJ09xsPZZA=="
     },
@@ -156,8 +156,8 @@
       "openDate": "2026-07-05  09:00",
       "lastInquiry": "2026-06-28",
       "docCost": "700",
-      "daysLeft": 4,
-      "status": "expiring",
+      "daysLeft": 1,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId= dZ8juUYwfteCUIU37xIwQ=="
     },
     {
@@ -171,8 +171,8 @@
       "openDate": "2026-07-05  10:00",
       "lastInquiry": "2026-06-28",
       "docCost": "600",
-      "daysLeft": 4,
-      "status": "expiring",
+      "daysLeft": 1,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=lX71yENNXeFgih7goRH8Lg=="
     },
     {
@@ -186,7 +186,7 @@
       "openDate": "2026-07-19  10:00",
       "lastInquiry": "2026-07-03",
       "docCost": "1700",
-      "daysLeft": 18,
+      "daysLeft": 15,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=aJfYWygt PX9gEua9fhnZQ=="
     },
@@ -201,8 +201,8 @@
       "openDate": "2026-07-06  08:30",
       "lastInquiry": "2026-06-30",
       "docCost": "700",
-      "daysLeft": 5,
-      "status": "expiring",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=sAkNobXgW6zkWdWQQjyi5g=="
     },
     {
@@ -216,8 +216,8 @@
       "openDate": "2026-07-05  11:30",
       "lastInquiry": "2026-06-29",
       "docCost": "1000",
-      "daysLeft": 4,
-      "status": "expiring",
+      "daysLeft": 1,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=rwoTpBkFQbLKlxtw2TWcxQ=="
     },
     {
@@ -231,54 +231,9 @@
       "openDate": "2026-07-18  10:00",
       "lastInquiry": "2026-07-02",
       "docCost": "1000",
-      "daysLeft": 17,
+      "daysLeft": 14,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=yn3YfZixXwm8yYPRk8go8g=="
-    },
-    {
-      "title": "مشروع حفل تدشين وزيارة معالي وزير البلديات والاسكان",
-      "type": "منافسة عامة",
-      "entity": "أمانة منطقة الجوف - إدارة المناقصات والمشتريات بأمانة الجوف",
-      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
-      "refNum": "260639004051",
-      "publishDate": "2026-06-17",
-      "deadline": "2026-07-03  09:59",
-      "openDate": "2026-07-03  10:00",
-      "lastInquiry": "2026-06-27",
-      "docCost": "1000",
-      "daysLeft": 2,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=S*@@**8CPO5RoTHisGt9xjbzrA=="
-    },
-    {
-      "title": "تقديم خدمات لوجستية لإدارة مركز اتصال",
-      "type": "منافسة عامة",
-      "entity": "الهيئة السعودية للمياه - ادارة الشراء - قسم مشتريات الخدمات والمشاريع",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260639004447",
-      "publishDate": "2026-06-16",
-      "deadline": "2026-07-02  09:59",
-      "openDate": "2026-07-02  10:00",
-      "lastInquiry": "2026-06-26",
-      "docCost": "1000",
-      "daysLeft": 1,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8QghRexoOrT3Z2PFcdEzsw=="
-    },
-    {
-      "title": "تجهيز احتفالات اليوم الوطني لعام 1448هـ بمحافظة عنيزة",
-      "type": "منافسة عامة",
-      "entity": "بلدية محافظة عنيزة - بلدية عنيزة",
-      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
-      "refNum": "260539006790",
-      "publishDate": "2026-06-15",
-      "deadline": "2026-07-02  09:59",
-      "openDate": "2026-07-02  10:00",
-      "lastInquiry": "2026-06-22",
-      "docCost": "1000",
-      "daysLeft": 1,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Z9lluFqJQURaCj8W87UqKw=="
     },
     {
       "title": "تنفيذ التجهيزات المتكاملة وإدارة وتشغيل الفعاليات المصاحبة بأمانة منطقة جازان للاحتفاء بمرور 300 عا ...",
@@ -291,7 +246,7 @@
       "openDate": "2026-07-16  10:00",
       "lastInquiry": "2026-06-25",
       "docCost": "3500",
-      "daysLeft": 15,
+      "daysLeft": 12,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=WpJcoSu0bBrPFsRGbEtWLQ=="
     },
@@ -306,8 +261,8 @@
       "openDate": "2026-07-09  10:00",
       "lastInquiry": "2026-06-20",
       "docCost": "3500",
-      "daysLeft": 8,
-      "status": "active",
+      "daysLeft": 5,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=vViumEYbuVDhuaaavUOQ5w=="
     },
     {
@@ -321,8 +276,8 @@
       "openDate": "2026-07-09  10:00",
       "lastInquiry": "2026-06-18",
       "docCost": "800",
-      "daysLeft": 8,
-      "status": "active",
+      "daysLeft": 5,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=VxYDx5IRMTv2bMBQgZBYIQ=="
     },
     {
@@ -336,27 +291,48 @@
       "openDate": "2026-07-13  09:00",
       "lastInquiry": "2026-07-02",
       "docCost": "مجانا",
-      "daysLeft": 12,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa#"
-    },
-    {
-      "title": "حجز و إيجار مساحة لمشاركة المجلس في ملتقى الصحة العالمي 2026 م",
-      "type": "منافسة عامة",
-      "entity": "مجلس الضمان الصحي - إدارة العقود والمشتريات",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260539005686",
-      "publishDate": "2026-05-14",
-      "deadline": "2026-07-01  10:00",
-      "openDate": "2026-07-01  10:00",
-      "lastInquiry": "2026-06-22",
-      "docCost": "700",
-      "daysLeft": 0,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1YPCETI1Qd0aX2hO0PyjpQ=="
     }
   ],
   "historical": [
+    {
+      "title": "مشروع حفل تدشين وزيارة معالي وزير البلديات والاسكان",
+      "type": "منافسة عامة",
+      "entity": "أمانة منطقة الجوف - إدارة المناقصات والمشتريات بأمانة الجوف",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260639004051",
+      "publishDate": "2026-06-17",
+      "deadline": "2026-07-03  09:59",
+      "docCost": "1000",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=S*@@**8CPO5RoTHisGt9xjbzrA==",
+      "status": "historical"
+    },
+    {
+      "title": "تقديم خدمات لوجستية لإدارة مركز اتصال",
+      "type": "منافسة عامة",
+      "entity": "الهيئة السعودية للمياه - ادارة الشراء - قسم مشتريات الخدمات والمشاريع",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260639004447",
+      "publishDate": "2026-06-16",
+      "deadline": "2026-07-02  09:59",
+      "docCost": "1000",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8QghRexoOrT3Z2PFcdEzsw==",
+      "status": "historical"
+    },
+    {
+      "title": "تجهيز احتفالات اليوم الوطني لعام 1448هـ بمحافظة عنيزة",
+      "type": "منافسة عامة",
+      "entity": "بلدية محافظة عنيزة - بلدية عنيزة",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260539006790",
+      "publishDate": "2026-06-15",
+      "deadline": "2026-07-02  09:59",
+      "docCost": "1000",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Z9lluFqJQURaCj8W87UqKw==",
+      "status": "historical"
+    },
     {
       "title": "اجتماع علم السلوك",
       "type": "المنافسة على مرحلتين (المرحلة الاولى)",
@@ -547,6 +523,18 @@
       "deadline": "2026-06-23  10:00",
       "docCost": "800",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=unyVOsN1woHk zKKBLiP0g==",
+      "status": "historical"
+    },
+    {
+      "title": "حجز و إيجار مساحة لمشاركة المجلس في ملتقى الصحة العالمي 2026 م",
+      "type": "منافسة عامة",
+      "entity": "مجلس الضمان الصحي - إدارة العقود والمشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260539005686",
+      "publishDate": "2026-05-14",
+      "deadline": "2026-07-01  10:00",
+      "docCost": "700",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1YPCETI1Qd0aX2hO0PyjpQ==",
       "status": "historical"
     },
     {
