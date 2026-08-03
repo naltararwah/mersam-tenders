@@ -1,15 +1,30 @@
 {
   "meta": {
-    "lastUpdated": "2026-07-31T11:38:37.577Z",
-    "scrapedDate": "2026-07-31",
+    "lastUpdated": "2026-08-03T06:58:05.768Z",
+    "scrapedDate": "2026-08-03",
     "source": "منصة اعتماد السعودية",
     "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
     "subActivity": "أنشطة المعارض والمؤتمرات",
     "filterUrl": "https://tenders.etimad.sa/Tender/AllTendersForVisitor?TenderActivityId=17&TenderSubActivityId=1701&IsSearch=true",
-    "totalLive": 21,
-    "totalHistorical": 421
+    "totalLive": 19,
+    "totalHistorical": 423
   },
   "live": [
+    {
+      "title": "تأمين خدمة الاحتفال باليوم الوطني 96 بمستشفى الملك سلمان التخصصي بالطائف التابع للشؤون الصحية بوزارة ...",
+      "type": "شراء مباشر",
+      "entity": "الشؤون الصحیة بوزارة الحرس الوطني - مستشفى الطائف",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260839000191",
+      "publishDate": "2026-08-02",
+      "deadline": "2026-08-09  09:59",
+      "openDate": "",
+      "lastInquiry": "2026-08-04",
+      "docCost": "200",
+      "daysLeft": 6,
+      "status": "expiring",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1s0V801JncntHkLRSMWMxA=="
+    },
     {
       "title": "الاحتفال باليوم الوطني الـ (96) بالقاعة التذكارية في دارة الملك عبدالعزيز",
       "type": "شراء مباشر",
@@ -21,7 +36,7 @@
       "openDate": "",
       "lastInquiry": "2026-08-05",
       "docCost": "200",
-      "daysLeft": 6,
+      "daysLeft": 4,
       "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Zckn3eLUWTwcqVXzpijTyQ=="
     },
@@ -36,7 +51,7 @@
       "openDate": "",
       "lastInquiry": "2026-07-30",
       "docCost": "200",
-      "daysLeft": 2,
+      "daysLeft": 0,
       "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MeKfEVLH29oBBkya5n*@@**p2w=="
     },
@@ -51,7 +66,7 @@
       "openDate": "",
       "lastInquiry": "2026-08-07",
       "docCost": "200",
-      "daysLeft": 11,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=5nruv6WyRrzsGFGphMmIfA=="
     },
@@ -66,7 +81,7 @@
       "openDate": "2026-08-13  10:00",
       "lastInquiry": "2026-08-07",
       "docCost": "1000",
-      "daysLeft": 12,
+      "daysLeft": 10,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=0ms m*@@**HMfHGasw3wQLYlIA=="
     },
@@ -81,7 +96,7 @@
       "openDate": "2026-08-13  10:00",
       "lastInquiry": "2026-08-11",
       "docCost": "3000",
-      "daysLeft": 12,
+      "daysLeft": 10,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=7ns4W4QfFUhCa8LumnJ7Rg=="
     },
@@ -96,7 +111,7 @@
       "openDate": "2026-08-11  13:00",
       "lastInquiry": "2026-08-06",
       "docCost": "مجانا",
-      "daysLeft": 10,
+      "daysLeft": 8,
       "status": "active",
       "link": "https://tenders.etimad.sa#"
     },
@@ -111,7 +126,7 @@
       "openDate": "2026-08-12  10:00",
       "lastInquiry": "2026-08-01",
       "docCost": "1000",
-      "daysLeft": 11,
+      "daysLeft": 9,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Hsa0IgTEKdXm3*@@**snOCusNA=="
     },
@@ -126,8 +141,8 @@
       "openDate": "",
       "lastInquiry": "2026-07-31",
       "docCost": "200",
-      "daysLeft": 5,
-      "status": "expiring",
+      "daysLeft": 3,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=x36WTTOVW92P3QdQE0KFqA=="
     },
     {
@@ -141,7 +156,7 @@
       "openDate": "",
       "lastInquiry": "2026-07-31",
       "docCost": "200",
-      "daysLeft": 2,
+      "daysLeft": 0,
       "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=nQ9 vZBJwX3f81LBobkEsA=="
     },
@@ -156,8 +171,8 @@
       "openDate": "2026-08-06  10:00",
       "lastInquiry": "2026-08-03",
       "docCost": "1000",
-      "daysLeft": 5,
-      "status": "expiring",
+      "daysLeft": 3,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=e0rFKYJK2kznBZrf4gQNCQ=="
     },
     {
@@ -171,24 +186,9 @@
       "openDate": "2026-08-06  10:00",
       "lastInquiry": "2026-07-26",
       "docCost": "500",
-      "daysLeft": 5,
-      "status": "expiring",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=5UXvEguB2OZu5IGKBEk9vA=="
-    },
-    {
-      "title": "تجديد شهادة الأيزو 9001 لمركز الخدمات الطبية الشرعية بالمنطقة الشرقية",
-      "type": "شراء مباشر",
-      "entity": "فرع وزارة الصحة بالمنطقة الشرقية - إدارة العقود والمشتريات (شراء مباشر) بصحة الشرقية",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739005431",
-      "publishDate": "2026-07-21",
-      "deadline": "2026-08-01  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-07-30",
-      "docCost": "200",
-      "daysLeft": 0,
+      "daysLeft": 3,
       "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ZUOhTDwel8pqdnrFT4MlZQ=="
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=5UXvEguB2OZu5IGKBEk9vA=="
     },
     {
       "title": "حجز مساحة لبناء جناح وزارة الصناعة والثروة المعدنية في مؤتمر ليب 2026",
@@ -201,8 +201,8 @@
       "openDate": "2026-08-05  10:00",
       "lastInquiry": "2026-07-28",
       "docCost": "650",
-      "daysLeft": 4,
-      "status": "expiring",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=aV9aZgpmBvLViYrNQtbVgg=="
     },
     {
@@ -216,7 +216,7 @@
       "openDate": "2026-08-04  10:00",
       "lastInquiry": "2026-07-29",
       "docCost": "700",
-      "daysLeft": 3,
+      "daysLeft": 1,
       "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=XuLw5zsnRSzsrbeU74d3sw=="
     },
@@ -227,28 +227,13 @@
       "activity": "أنشطة المعارض والمؤتمرات",
       "refNum": "260739005357",
       "publishDate": "2026-07-16",
-      "deadline": "2026-08-02  10:00",
-      "openDate": "2026-08-02  10:00",
-      "lastInquiry": "2026-07-26",
+      "deadline": "2026-08-09  10:00",
+      "openDate": "2026-08-09  10:00",
+      "lastInquiry": "2026-08-03",
       "docCost": "1000",
-      "daysLeft": 1,
-      "status": "urgent",
+      "daysLeft": 6,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=YljoXB4eN mU5RlqJ2xOCQ=="
-    },
-    {
-      "title": "الحفل الختامي لجائزة كفاءة الطاقة 2026",
-      "type": "منافسة عامة",
-      "entity": "المركز السعودي لكفاءة الطاقة - المنافسات والمشتريات",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739005182",
-      "publishDate": "2026-07-15",
-      "deadline": "2026-08-02  10:00",
-      "openDate": "2026-08-02  10:00",
-      "lastInquiry": "2026-07-30",
-      "docCost": "2000",
-      "daysLeft": 1,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=zH13 ia JHIeDXvSZLxyMw=="
     },
     {
       "title": "اتفاقية تقديم خدمات السفر للوفود والزيارات الرسمية للهيئة",
@@ -261,8 +246,8 @@
       "openDate": "2026-08-09  10:00",
       "lastInquiry": "2026-07-19",
       "docCost": "2000",
-      "daysLeft": 8,
-      "status": "active",
+      "daysLeft": 6,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8o4V4ipxoUWCAtOhkuOeOA=="
     },
     {
@@ -272,9 +257,9 @@
       "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
       "refNum": "260739003399",
       "publishDate": "2026-07-09",
-      "deadline": "2026-08-02  10:00",
+      "deadline": "2026-08-04  10:00",
       "openDate": "",
-      "lastInquiry": "2026-07-26",
+      "lastInquiry": "2026-08-03",
       "docCost": "500",
       "daysLeft": 1,
       "status": "urgent",
@@ -291,8 +276,8 @@
       "openDate": "2026-08-10  15:00",
       "lastInquiry": "2026-07-23",
       "docCost": "500",
-      "daysLeft": 9,
-      "status": "active",
+      "daysLeft": 7,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=nePtRdDae1O3fHNQopAmhw=="
     },
     {
@@ -306,24 +291,9 @@
       "openDate": "2026-08-11  10:00",
       "lastInquiry": "2026-07-30",
       "docCost": "1700",
-      "daysLeft": 10,
+      "daysLeft": 8,
       "status": "active",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=aJfYWygt PX9gEua9fhnZQ=="
-    },
-    {
-      "title": "تنفيذ التجهيزات المتكاملة وإدارة وتشغيل الفعاليات المصاحبة بأمانة منطقة جازان للاحتفاء بمرور 300 عا ...",
-      "type": "منافسة عامة",
-      "entity": "أمانة منطقة جازان - أمانة منطقة جازان",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260639003913",
-      "publishDate": "2026-06-15",
-      "deadline": "2026-08-06  10:00",
-      "openDate": "2026-08-06  10:00",
-      "lastInquiry": "2026-07-22",
-      "docCost": "3500",
-      "daysLeft": 5,
-      "status": "expiring",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=WpJcoSu0bBrPFsRGbEtWLQ=="
     }
   ],
   "historical": [
@@ -364,6 +334,18 @@
       "status": "historical"
     },
     {
+      "title": "تجديد شهادة الأيزو 9001 لمركز الخدمات الطبية الشرعية بالمنطقة الشرقية",
+      "type": "شراء مباشر",
+      "entity": "فرع وزارة الصحة بالمنطقة الشرقية - إدارة العقود والمشتريات (شراء مباشر) بصحة الشرقية",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739005431",
+      "publishDate": "2026-07-21",
+      "deadline": "2026-08-01  09:59",
+      "docCost": "200",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ZUOhTDwel8pqdnrFT4MlZQ==",
+      "status": "historical"
+    },
+    {
       "title": "اعداد وتجهيز حفل تخريج الدورة التأهيلية للفرد الأساسي (48)",
       "type": "شراء مباشر",
       "entity": "المديرية العامة للسجون - الادارة العامة للمنافسات والمشتريات",
@@ -385,6 +367,18 @@
       "deadline": "2026-07-23  10:00",
       "docCost": "200",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=5tvRRi1HaYTaPxNURdtC4g==",
+      "status": "historical"
+    },
+    {
+      "title": "الحفل الختامي لجائزة كفاءة الطاقة 2026",
+      "type": "منافسة عامة",
+      "entity": "المركز السعودي لكفاءة الطاقة - المنافسات والمشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739005182",
+      "publishDate": "2026-07-15",
+      "deadline": "2026-08-02  10:00",
+      "docCost": "2000",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=zH13 ia JHIeDXvSZLxyMw==",
       "status": "historical"
     },
     {
