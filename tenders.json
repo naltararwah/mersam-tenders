@@ -1,15 +1,105 @@
 {
   "meta": {
-    "lastUpdated": "2026-08-03T06:58:05.768Z",
-    "scrapedDate": "2026-08-03",
+    "lastUpdated": "2026-08-08T12:26:54.576Z",
+    "scrapedDate": "2026-08-08",
     "source": "منصة اعتماد السعودية",
     "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
     "subActivity": "أنشطة المعارض والمؤتمرات",
     "filterUrl": "https://tenders.etimad.sa/Tender/AllTendersForVisitor?TenderActivityId=17&TenderSubActivityId=1701&IsSearch=true",
-    "totalLive": 19,
-    "totalHistorical": 423
+    "totalLive": 16,
+    "totalHistorical": 431
   },
   "live": [
+    {
+      "title": "احتفالية مرور ٣٠٠ عام على تأسيس الدولة السعودية",
+      "type": "منافسة عامة",
+      "entity": "مركز الإقامة المميزة - مركز الإقامة المميزة",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260839000785",
+      "publishDate": "2026-08-06",
+      "deadline": "2026-08-22  09:59",
+      "openDate": "2026-08-22  10:00",
+      "lastInquiry": "2026-08-16",
+      "docCost": "1000",
+      "daysLeft": 13,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=XLG0KBeM2YT3rP*@@**u0vhtuw=="
+    },
+    {
+      "title": "مشروع المناسبة الوطنية اليوم الوطني السعودي 96",
+      "type": "منافسة عامة",
+      "entity": "أمانة منطقة الجوف - إدارة المناقصات والمشتريات بأمانة الجوف",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260839001053",
+      "publishDate": "2026-08-06",
+      "deadline": "2026-08-22  09:59",
+      "openDate": "2026-08-22  10:00",
+      "lastInquiry": "2026-08-16",
+      "docCost": "1000",
+      "daysLeft": 13,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=velHztGZyi 2fwGM GuYeg=="
+    },
+    {
+      "title": "الاحتفال باليوم الوطني ويوم التأسيس في ديوان الوزارة وفروعها",
+      "type": "منافسة عامة",
+      "entity": "وزارة الشـؤون الاسلامية والدعوة والارشاد - المنافسات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739010499",
+      "publishDate": "2026-08-05",
+      "deadline": "2026-08-23  09:00",
+      "openDate": "2026-08-23  09:00",
+      "lastInquiry": "2026-08-15",
+      "docCost": "700",
+      "daysLeft": 14,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Pxurh4QztMYw7VPr0MDJQw=="
+    },
+    {
+      "title": "إقامة احتفال اليوم الوطني 96 بطلعة التمياط",
+      "type": "منافسة عامة",
+      "entity": "أمانة منطقة الحدود الشمالية - بلدية طلعة التمياط بأمانة منطقة الحدود الشمالية",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739010207",
+      "publishDate": "2026-08-04",
+      "deadline": "2026-08-20  09:59",
+      "openDate": "2026-08-20  10:00",
+      "lastInquiry": "2026-08-14",
+      "docCost": "700",
+      "daysLeft": 11,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=idWbnhiDa68fJv71MYjIMA=="
+    },
+    {
+      "title": "حجز مساحة وتصميم وتنفيذ جناح المجلس الصحي السعودي في ملتقى الصحة العامة العالمي 2026م",
+      "type": "منافسة عامة",
+      "entity": "المجلس الصحي السعودي والمراكز التابعة له - ادارة المشتريات",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260839000739",
+      "publishDate": "2026-08-04",
+      "deadline": "2026-08-21  09:59",
+      "openDate": "2026-08-21  10:00",
+      "lastInquiry": "2026-08-10",
+      "docCost": "1500",
+      "daysLeft": 12,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=YRP7F LcfNZOGRrtnWP6tQ=="
+    },
+    {
+      "title": "برنامج ضيوف خادم الحرمين الشريفين للعمرة والزيارة",
+      "type": "منافسة عامة",
+      "entity": "وزارة الشـؤون الاسلامية والدعوة والارشاد - المنافسات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260839000243",
+      "publishDate": "2026-08-04",
+      "deadline": "2026-09-06  09:00",
+      "openDate": "2026-09-06  09:10",
+      "lastInquiry": "2026-08-20",
+      "docCost": "1000",
+      "daysLeft": 28,
+      "status": "active",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=VQ Aty9NRL485Gna8Hj7Vg=="
+    },
     {
       "title": "تأمين خدمة الاحتفال باليوم الوطني 96 بمستشفى الملك سلمان التخصصي بالطائف التابع للشؤون الصحية بوزارة ...",
       "type": "شراء مباشر",
@@ -21,39 +111,9 @@
       "openDate": "",
       "lastInquiry": "2026-08-04",
       "docCost": "200",
-      "daysLeft": 6,
-      "status": "expiring",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1s0V801JncntHkLRSMWMxA=="
-    },
-    {
-      "title": "الاحتفال باليوم الوطني الـ (96) بالقاعة التذكارية في دارة الملك عبدالعزيز",
-      "type": "شراء مباشر",
-      "entity": "دارة الملك عبدالعزيز - المشتريات",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739010616",
-      "publishDate": "2026-07-30",
-      "deadline": "2026-08-07  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-08-05",
-      "docCost": "200",
-      "daysLeft": 4,
-      "status": "expiring",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Zckn3eLUWTwcqVXzpijTyQ=="
-    },
-    {
-      "title": "تنفيذ فعالية إبداعية إحتفالية لليوم الوطني لعام 2026م",
-      "type": "شراء مباشر",
-      "entity": "مجلس الضمان الصحي - إدارة العقود والمشتريات",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739010744",
-      "publishDate": "2026-07-29",
-      "deadline": "2026-08-03  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-07-30",
-      "docCost": "200",
       "daysLeft": 0,
       "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MeKfEVLH29oBBkya5n*@@**p2w=="
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=1s0V801JncntHkLRSMWMxA=="
     },
     {
       "title": "استئجار احتياجات اقامه فعليات",
@@ -66,8 +126,8 @@
       "openDate": "",
       "lastInquiry": "2026-08-07",
       "docCost": "200",
-      "daysLeft": 9,
-      "status": "active",
+      "daysLeft": 3,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=5nruv6WyRrzsGFGphMmIfA=="
     },
     {
@@ -81,8 +141,8 @@
       "openDate": "2026-08-13  10:00",
       "lastInquiry": "2026-08-07",
       "docCost": "1000",
-      "daysLeft": 10,
-      "status": "active",
+      "daysLeft": 4,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=0ms m*@@**HMfHGasw3wQLYlIA=="
     },
     {
@@ -96,12 +156,12 @@
       "openDate": "2026-08-13  10:00",
       "lastInquiry": "2026-08-11",
       "docCost": "3000",
-      "daysLeft": 10,
-      "status": "active",
+      "daysLeft": 4,
+      "status": "expiring",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=7ns4W4QfFUhCa8LumnJ7Rg=="
     },
     {
-      "title": "تنظيم اللقاءات وورش العمل",
+      "title": "تفعيل استراتيجية الأحساء",
       "type": "منافسة عامة",
       "entity": "20250901AL-AHSA DEVELOPMENT AUTHORITY (A - قسم المنافسات - AHDA",
       "activity": "السياحة والمطاعم والفنادق وتنظيم المعارض",
@@ -111,8 +171,8 @@
       "openDate": "2026-08-11  13:00",
       "lastInquiry": "2026-08-06",
       "docCost": "مجانا",
-      "daysLeft": 8,
-      "status": "active",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa#"
     },
     {
@@ -126,99 +186,9 @@
       "openDate": "2026-08-12  10:00",
       "lastInquiry": "2026-08-01",
       "docCost": "1000",
-      "daysLeft": 9,
-      "status": "active",
+      "daysLeft": 3,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Hsa0IgTEKdXm3*@@**snOCusNA=="
-    },
-    {
-      "title": "تنظيم فعالية صغيرة",
-      "type": "شراء مباشر",
-      "entity": "مستشفى قاعدة الملك عبدالعزيز الجوية بالظهران - إدارة العقود والمشتريات - الشراء المباشر مخزني - غير مخزني - امين الطاهر",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739006426",
-      "publishDate": "2026-07-26",
-      "deadline": "2026-08-06  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-07-31",
-      "docCost": "200",
-      "daysLeft": 3,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=x36WTTOVW92P3QdQE0KFqA=="
-    },
-    {
-      "title": "تنظيم فعالية صغيرة (اليوم الوطني)",
-      "type": "شراء مباشر",
-      "entity": "مستشفى قاعدة الملك عبدالعزيز الجوية بالظهران - إدارة العقود والمشتريات - الشراء المباشر مخزني - غير مخزني - امين الطاهر",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739007903",
-      "publishDate": "2026-07-26",
-      "deadline": "2026-08-03  09:59",
-      "openDate": "",
-      "lastInquiry": "2026-07-31",
-      "docCost": "200",
-      "daysLeft": 0,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=nQ9 vZBJwX3f81LBobkEsA=="
-    },
-    {
-      "title": "استضافة المملكة العربية السعودية ممثلة بالهيئة للمنتدى العالمي لأخلاقيات الذكاء الاصطناعي",
-      "type": "منافسة عامة",
-      "entity": "الهيئة السعودية للبيانات والذكاء الاصطناعي - الهيئة السعودية للبيانات والذكاء الاصطناعي",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739000183",
-      "publishDate": "2026-07-21",
-      "deadline": "2026-08-06  09:59",
-      "openDate": "2026-08-06  10:00",
-      "lastInquiry": "2026-08-03",
-      "docCost": "1000",
-      "daysLeft": 3,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=e0rFKYJK2kznBZrf4gQNCQ=="
-    },
-    {
-      "title": "تنفيذ الدورة التدريبية للقادة بتجمع جدة الصحي الثاني لعام 2026م",
-      "type": "منافسة عامة",
-      "entity": "تجمع جدة الصحي الثاني - الموارد الذاتية",
-      "activity": "أنشطة التعليم",
-      "refNum": "260739007255",
-      "publishDate": "2026-07-21",
-      "deadline": "2026-08-06  09:59",
-      "openDate": "2026-08-06  10:00",
-      "lastInquiry": "2026-07-26",
-      "docCost": "500",
-      "daysLeft": 3,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=5UXvEguB2OZu5IGKBEk9vA=="
-    },
-    {
-      "title": "حجز مساحة لبناء جناح وزارة الصناعة والثروة المعدنية في مؤتمر ليب 2026",
-      "type": "منافسة عامة",
-      "entity": "وزارة الصناعة والثروة المعدنية - الوزارة الرئيسي",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739005788",
-      "publishDate": "2026-07-20",
-      "deadline": "2026-08-05  09:59",
-      "openDate": "2026-08-05  10:00",
-      "lastInquiry": "2026-07-28",
-      "docCost": "650",
-      "daysLeft": 2,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=aV9aZgpmBvLViYrNQtbVgg=="
-    },
-    {
-      "title": "تجهيز مقر أمانة منطقة تبوك في المعرض الدولي للعقار 2026م",
-      "type": "منافسة عامة",
-      "entity": "أمانة منطقة تبوك - ادارة المناقصات",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739004982",
-      "publishDate": "2026-07-19",
-      "deadline": "2026-08-04  09:59",
-      "openDate": "2026-08-04  10:00",
-      "lastInquiry": "2026-07-29",
-      "docCost": "700",
-      "daysLeft": 1,
-      "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=XuLw5zsnRSzsrbeU74d3sw=="
     },
     {
       "title": "تقديم خدمات القاعات والضيافة لمؤتمر 2026م",
@@ -231,8 +201,8 @@
       "openDate": "2026-08-09  10:00",
       "lastInquiry": "2026-08-03",
       "docCost": "1000",
-      "daysLeft": 6,
-      "status": "expiring",
+      "daysLeft": 0,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=YljoXB4eN mU5RlqJ2xOCQ=="
     },
     {
@@ -246,24 +216,9 @@
       "openDate": "2026-08-09  10:00",
       "lastInquiry": "2026-07-19",
       "docCost": "2000",
-      "daysLeft": 6,
-      "status": "expiring",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8o4V4ipxoUWCAtOhkuOeOA=="
-    },
-    {
-      "title": "تطوير وإدارة وتسويق المنتجات الرعائية لنادي الإبل",
-      "type": "المنافسة على مرحلتين (المرحلة الاولى)",
-      "entity": "إعانة نادي الإبل - نادي الابل",
-      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
-      "refNum": "260739003399",
-      "publishDate": "2026-07-09",
-      "deadline": "2026-08-04  10:00",
-      "openDate": "",
-      "lastInquiry": "2026-08-03",
-      "docCost": "500",
-      "daysLeft": 1,
+      "daysLeft": 0,
       "status": "urgent",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ZPNzIjU4k4MCXmVwnce1rw=="
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=8o4V4ipxoUWCAtOhkuOeOA=="
     },
     {
       "title": "خدمات الاستقبال و إرشاد الزوار في حي السفارات",
@@ -276,8 +231,8 @@
       "openDate": "2026-08-10  15:00",
       "lastInquiry": "2026-07-23",
       "docCost": "500",
-      "daysLeft": 7,
-      "status": "expiring",
+      "daysLeft": 1,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=nePtRdDae1O3fHNQopAmhw=="
     },
     {
@@ -291,12 +246,36 @@
       "openDate": "2026-08-11  10:00",
       "lastInquiry": "2026-07-30",
       "docCost": "1700",
-      "daysLeft": 8,
-      "status": "active",
+      "daysLeft": 2,
+      "status": "urgent",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=aJfYWygt PX9gEua9fhnZQ=="
     }
   ],
   "historical": [
+    {
+      "title": "الاحتفال باليوم الوطني الـ (96) بالقاعة التذكارية في دارة الملك عبدالعزيز",
+      "type": "شراء مباشر",
+      "entity": "دارة الملك عبدالعزيز - المشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739010616",
+      "publishDate": "2026-07-30",
+      "deadline": "2026-08-07  09:59",
+      "docCost": "200",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Zckn3eLUWTwcqVXzpijTyQ==",
+      "status": "historical"
+    },
+    {
+      "title": "تنفيذ فعالية إبداعية إحتفالية لليوم الوطني لعام 2026م",
+      "type": "شراء مباشر",
+      "entity": "مجلس الضمان الصحي - إدارة العقود والمشتريات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739010744",
+      "publishDate": "2026-07-29",
+      "deadline": "2026-08-03  09:59",
+      "docCost": "200",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MeKfEVLH29oBBkya5n*@@**p2w==",
+      "status": "historical"
+    },
     {
       "title": "منافسة احتفالية اليوم الوطني في بلدية دخنة",
       "type": "شراء مباشر",
@@ -322,6 +301,30 @@
       "status": "historical"
     },
     {
+      "title": "تنظيم فعالية صغيرة",
+      "type": "شراء مباشر",
+      "entity": "مستشفى قاعدة الملك عبدالعزيز الجوية بالظهران - إدارة العقود والمشتريات - الشراء المباشر مخزني - غير مخزني - امين الطاهر",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739006426",
+      "publishDate": "2026-07-26",
+      "deadline": "2026-08-06  09:59",
+      "docCost": "200",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=x36WTTOVW92P3QdQE0KFqA==",
+      "status": "historical"
+    },
+    {
+      "title": "تنظيم فعالية صغيرة (اليوم الوطني)",
+      "type": "شراء مباشر",
+      "entity": "مستشفى قاعدة الملك عبدالعزيز الجوية بالظهران - إدارة العقود والمشتريات - الشراء المباشر مخزني - غير مخزني - امين الطاهر",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739007903",
+      "publishDate": "2026-07-26",
+      "deadline": "2026-08-03  09:59",
+      "docCost": "200",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=nQ9 vZBJwX3f81LBobkEsA==",
+      "status": "historical"
+    },
+    {
       "title": "تحسين البهو الداخلي لمجمع الملك عبد العزيز للمكتبات الوقفية",
       "type": "شراء مباشر",
       "entity": "مجمع الملك عبدالعزيز للمكتبات الوقفية - مجمع الملك عبدالعزيز للمكتبات الوقفية",
@@ -334,6 +337,30 @@
       "status": "historical"
     },
     {
+      "title": "استضافة المملكة العربية السعودية ممثلة بالهيئة للمنتدى العالمي لأخلاقيات الذكاء الاصطناعي",
+      "type": "منافسة عامة",
+      "entity": "الهيئة السعودية للبيانات والذكاء الاصطناعي - الهيئة السعودية للبيانات والذكاء الاصطناعي",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739000183",
+      "publishDate": "2026-07-21",
+      "deadline": "2026-08-06  09:59",
+      "docCost": "1000",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=e0rFKYJK2kznBZrf4gQNCQ==",
+      "status": "historical"
+    },
+    {
+      "title": "تنفيذ الدورة التدريبية للقادة بتجمع جدة الصحي الثاني لعام 2026م",
+      "type": "منافسة عامة",
+      "entity": "تجمع جدة الصحي الثاني - الموارد الذاتية",
+      "activity": "أنشطة التعليم",
+      "refNum": "260739007255",
+      "publishDate": "2026-07-21",
+      "deadline": "2026-08-06  09:59",
+      "docCost": "500",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=5UXvEguB2OZu5IGKBEk9vA==",
+      "status": "historical"
+    },
+    {
       "title": "تجديد شهادة الأيزو 9001 لمركز الخدمات الطبية الشرعية بالمنطقة الشرقية",
       "type": "شراء مباشر",
       "entity": "فرع وزارة الصحة بالمنطقة الشرقية - إدارة العقود والمشتريات (شراء مباشر) بصحة الشرقية",
@@ -343,6 +370,30 @@
       "deadline": "2026-08-01  09:59",
       "docCost": "200",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ZUOhTDwel8pqdnrFT4MlZQ==",
+      "status": "historical"
+    },
+    {
+      "title": "حجز مساحة لبناء جناح وزارة الصناعة والثروة المعدنية في مؤتمر ليب 2026",
+      "type": "منافسة عامة",
+      "entity": "وزارة الصناعة والثروة المعدنية - الوزارة الرئيسي",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739005788",
+      "publishDate": "2026-07-20",
+      "deadline": "2026-08-05  09:59",
+      "docCost": "650",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=aV9aZgpmBvLViYrNQtbVgg==",
+      "status": "historical"
+    },
+    {
+      "title": "تجهيز مقر أمانة منطقة تبوك في المعرض الدولي للعقار 2026م",
+      "type": "منافسة عامة",
+      "entity": "أمانة منطقة تبوك - ادارة المناقصات",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739004982",
+      "publishDate": "2026-07-19",
+      "deadline": "2026-08-04  09:59",
+      "docCost": "700",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=XuLw5zsnRSzsrbeU74d3sw==",
       "status": "historical"
     },
     {
@@ -430,6 +481,18 @@
       "status": "historical"
     },
     {
+      "title": "تطوير وإدارة وتسويق المنتجات الرعائية لنادي الإبل",
+      "type": "المنافسة على مرحلتين (المرحلة الاولى)",
+      "entity": "إعانة نادي الإبل - نادي الابل",
+      "activity": "خدمات النشر والطباعة والدعاية والاعلان والإنتاج الفني",
+      "refNum": "260739003399",
+      "publishDate": "2026-07-09",
+      "deadline": "2026-08-04  10:00",
+      "docCost": "500",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=ZPNzIjU4k4MCXmVwnce1rw==",
+      "status": "historical"
+    },
+    {
       "title": "تنفيذ وتصميم جناح الدارة في معرض جدة الدولي للكتاب لعام 2026م",
       "type": "منافسة عامة",
       "entity": "دارة الملك عبدالعزيز - المشتريات",
@@ -451,18 +514,6 @@
       "deadline": "2026-07-29  14:00",
       "docCost": "3000",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=MSjaIfTSw4p3XDyOj0jb2Q==",
-      "status": "historical"
-    },
-    {
-      "title": "تنظيم وتشغيل موسم سباقات الطائف بنادي سباقات الخيل 2026",
-      "type": "منافسة إتفاقية إطارية",
-      "entity": "نادي سباقات الخيل - نادي سباقات الخيل",
-      "activity": "أنشطة المعارض والمؤتمرات",
-      "refNum": "260739001245",
-      "publishDate": "2026-07-06",
-      "deadline": "2026-07-22  09:59",
-      "docCost": "800",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Cf4LR5tUv0am3MIXqBNjWw==",
       "status": "historical"
     },
     {
@@ -583,6 +634,18 @@
       "deadline": "2026-07-06  08:00",
       "docCost": "700",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=sAkNobXgW6zkWdWQQjyi5g==",
+      "status": "historical"
+    },
+    {
+      "title": "تنظيم وتشغيل موسم سباقات الطائف بنادي سباقات الخيل 2026",
+      "type": "منافسة إتفاقية إطارية",
+      "entity": "نادي سباقات الخيل - نادي سباقات الخيل",
+      "activity": "أنشطة المعارض والمؤتمرات",
+      "refNum": "260739001245",
+      "publishDate": "2026-07-06",
+      "deadline": "2026-07-22  09:59",
+      "docCost": "800",
+      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=Cf4LR5tUv0am3MIXqBNjWw==",
       "status": "historical"
     },
     {
@@ -3243,18 +3306,6 @@
       "publishDate": "2025-12-14",
       "docCost": "700",
       "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=20fEqA8HyLP6FypLAypBMQ==",
-      "status": "historical",
-      "entity": "",
-      "activity": "",
-      "refNum": "",
-      "deadline": ""
-    },
-    {
-      "title": "برنامج ضيوف خادم الحرمين الشريفين للعمرة والزيارة",
-      "type": "منافسة عامة",
-      "publishDate": "2025-12-11",
-      "docCost": "1000",
-      "link": "https://tenders.etimad.sa/Tender/DetailsForVisitor?STenderId=l4mZvwMYjrzPjE3FhEE1SA==",
       "status": "historical",
       "entity": "",
       "activity": "",
